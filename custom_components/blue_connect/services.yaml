@@ -1,0 +1,4 @@
+# Describes the format for available services
+
+update:
+  description: Force update of latest measurements from the API.

@@ -1,0 +1,23 @@
+{
+	"config": {
+	  "title": "Blue Connect Pool monitor",
+	  "step": {
+		"user": {
+		  "title": "Preferences",
+		  "data": {
+			"username": "Username",
+			"password": "Password",
+			"language": "Language"
+		  }
+		}
+	  },
+	  "error": {
+		"unknown": "Unexpected error",
+		"invalid_credentials": "Please specify valid credentials."
+	  },
+	  "abort": {
+		"already_configured": "This platform is already configured"
+	  }
+	}
+  }
+  

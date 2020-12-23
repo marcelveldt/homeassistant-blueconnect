@@ -1,0 +1,9 @@
+{
+  "domain": "blue_connect",
+  "name": "Blue Connect Pool Monitoring",
+  "config_flow": true,
+  "documentation": "https://github.com/home-assistant/example-custom-config/tree/master/custom_components/example_load_platform/",
+  "dependencies": [],
+  "codeowners": ["@marcelveldt"],
+  "requirements": ["blueconnect==1.0.3", "aws-request-signer==1.0.0", "inflection==0.5.1"]
+}
